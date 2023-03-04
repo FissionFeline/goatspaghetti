@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'TF2 Build';
+    src: url('../assets/tf2-font/TF2Build.woff2') format('woff2'), url('../assets/tf2-font/TF2Build.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 .navbar {
     position: fixed;
     text-align: center;
@@ -11,4 +19,5 @@
     align-items: center;
     padding: 0 20px;
     box-sizing: border-box;
+    font-family: 'TF2 Build';
 }
