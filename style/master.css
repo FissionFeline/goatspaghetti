@@ -21,3 +21,15 @@
     box-sizing: border-box;
     font-family: 'TF2 Build';
 }
+
+a:hover {
+    text-decoration: none;
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
