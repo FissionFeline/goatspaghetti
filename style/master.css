@@ -6,7 +6,7 @@
     left: 0;
     width: 100%;
     height: auto;
-    background-color: #003959;
+    background-color: #450a33;
     color: white;
     justify-content: center;
     align-items: center;
@@ -15,14 +15,16 @@
     font-family: 'TF2 Build';
 }
 
-a:hover {
+.link_no_deco {
     text-decoration: none;
 }
 
-a:focus {
+.link_no_deco:link {
+    background-color: transparent;
     text-decoration: none;
 }
 
-a:active {
+.link_no_deco:visited {
+    background-color: transparent;
     text-decoration: none;
 }
