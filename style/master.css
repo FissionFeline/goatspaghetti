@@ -16,7 +16,7 @@ body {
     text-align: center;
     top: 0;
     left: 0;
-    width: 100%;
+    width: auto;
     height: auto;
     background-color: #450a33;
     color: white;
@@ -40,3 +40,5 @@ body {
     background-color: transparent;
     text-decoration: none;
 }
+
+.main {}
