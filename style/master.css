@@ -1,12 +1,14 @@
 @import "../assets/tf2-font/stylesheet.css";
 body {
     background-image: linear-gradient( 0deg, hsl(328deg 93% 11%) 0%, hsl(324deg 80% 16%) 12%, hsl(320deg 69% 22%) 24%, hsl(317deg 59% 28%) 36%, hsl(313deg 50% 35%) 48%, hsl(309deg 42% 43%) 60%, hsl(306deg 36% 51%) 71%, hsl(302deg 42% 60%) 81%, hsl(298deg 51% 69%) 91%, hsl(295deg 66% 79%) 100%);
-    height: 100vh;
+    height: 100dvh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
+    justify-content: center;
+    align-items: center;
 }
 
 .navbar {
