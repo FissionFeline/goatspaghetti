@@ -1,5 +1,6 @@
 @import "../assets/tf2-font/stylesheet.css";
 body {
+    background-color: blueviolet;
     height: 100dvh;
     background-attachment: fixed;
     background-position: center;
@@ -47,4 +48,8 @@ body {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-color: rgb(41, 143, 233);
+    /*min-width: 80dvh;*/
+    width: auto;
+    max-width:
 }
