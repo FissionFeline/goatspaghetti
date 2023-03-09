@@ -20,12 +20,12 @@ body {
     width: 100%;
     margin: 0;
     height: auto;
-    background-color: #450a33;
     color: white;
     justify-content: center;
     align-items: center;
     padding: 1dvh;
     box-sizing: border-box;
+    background-color: #450a33;
     font-family: 'TF2 Build';
 }
 
@@ -44,21 +44,19 @@ body {
 }
 
 .main {
-    margin: 2dvh;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin: 2dvh auto;
     background-color: rgb(41, 143, 233);
     min-width: 80dvh;
     max-width: 150dvh;
     height: 100%;
     width: auto;
     overflow: hidden;
+    border-radius: 5%;
 }
 
-
-/*.centered_img {
-    overflow: hidden;
-    height: 50%;
+.centered_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
-}*/
+}
