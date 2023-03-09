@@ -51,6 +51,14 @@ body {
     background-color: rgb(41, 143, 233);
     min-width: 80dvh;
     max-width: 150dvh;
+    height: 100%;
     width: auto;
-    height: auto;
+    overflow: hidden;
 }
+
+
+/*.centered_img {
+    overflow: hidden;
+    height: 50%;
+    width: 50%;
+}*/
