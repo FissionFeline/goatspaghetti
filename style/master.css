@@ -46,7 +46,7 @@ body {
 .main {
     margin: 2dvh auto;
     background-color: rgb(41, 143, 233);
-    min-width: 80dvh;
+    min-width: auto;
     max-width: 150dvh;
     height: 100%;
     width: auto;
