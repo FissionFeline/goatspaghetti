@@ -132,6 +132,20 @@ body {
     color: black;
 }
 
+.gallery_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
+.gallery_item {
+    width: 45dvb;
+    height: 17dvb;
+    margin: 1dvb;
+    background-color: #e6c5d7;
+}
+
 
 /*Whoever invented phones fuck you!*/
 
