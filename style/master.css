@@ -1,7 +1,7 @@
 @import "../assets/tf2-font/stylesheet.css";
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
 body {
-    background-color: blueviolet;
+    background-color: #0a0204;
     height: 100dvh;
     background-attachment: fixed;
     background-position: center;
@@ -47,14 +47,14 @@ body {
 
 .main {
     margin: 5dvh auto;
-    background-color: rgb(41, 143, 233);
+    background-color: #5e424a;
     min-width: auto;
     max-width: 150dvh;
     height: auto;
     width: auto;
     padding: 2dvh;
     overflow: hidden;
-    border-radius: 5%;
+    border-radius: 1%;
     text-align: center;
 }
 
@@ -64,7 +64,10 @@ body {
     margin-right: auto;
     width: 50dvh;
     height: 50dvh;
-    border-radius: 5%;
+    border-radius: 1%;
+    border-color: white;
+    border-style: solid;
+    border-width: 1dvb;
 }
 
 .about_me_houser {
