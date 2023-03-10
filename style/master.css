@@ -125,6 +125,8 @@ body {
 }
 
 .tos_houser {
+    justify-content: center;
+    align-items: center;
     background-color: blue;
 }
 
