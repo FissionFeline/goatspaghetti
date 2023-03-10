@@ -83,12 +83,15 @@ body {
 .pricing_wrapper {
     display: flex;
     flex-wrap: wrap;
+    align-items: stretch;
     justify-content: space-evenly;
     color: white;
 }
 
 .pricing_item {
     color: white;
+    width: 45dvb;
+    margin: 1dvb;
 }
 
 
