@@ -87,6 +87,7 @@ body {
     align-items: stretch;
     justify-content: space-evenly;
     color: white;
+    margin: 1dvb;
 }
 
 .pricing_item {
