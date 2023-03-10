@@ -33,6 +33,7 @@ body {
 
 .link_no_deco {
     text-decoration: none;
+    color: white;
 }
 
 .link_no_deco:link {
@@ -89,10 +90,11 @@ body {
 }
 
 .pricing_item {
-    color: white;
+    color: rgb(29, 27, 27);
     width: 45dvb;
     height: 17dvb;
     margin: 1dvb;
+    background-color: #e6c5d7;
 }
 
 .contact_wrapper {
@@ -100,15 +102,15 @@ body {
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: space-evenly;
-    color: white;
+    color: rgb(29, 27, 27);
 }
 
 .contact_item {
-    color: white;
+    color: rgb(29, 27, 27);
     width: 45dvb;
     height: 17dvb;
     margin: 1dvb;
-    background-color: blueviolet;
+    background-color: #e6c5d7;
 }
 
 
