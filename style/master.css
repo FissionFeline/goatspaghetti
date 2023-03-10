@@ -95,6 +95,21 @@ body {
     margin: 1dvb;
 }
 
+.contact_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.contact_item {
+    color: white;
+    width: 45dvb;
+    height: 17dvb;
+    margin: 1dvb;
+}
+
 
 /*Whoever invented phones fuck you!*/
 
