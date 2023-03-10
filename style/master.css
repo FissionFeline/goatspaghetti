@@ -81,6 +81,12 @@ body {
     margin-top: 2dvb;
 }
 
+.pricing_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
 
 /*Whoever invented phones fuck you!*/
 
