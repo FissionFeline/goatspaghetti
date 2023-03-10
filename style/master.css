@@ -84,6 +84,11 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    color: white;
+}
+
+.pricing_item {
+    color: white;
 }
 
 
