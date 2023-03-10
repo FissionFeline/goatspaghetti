@@ -67,4 +67,20 @@ body {
     border-radius: 5%;
 }
 
-.about_me_houser {}
+.about_me_houser {
+    padding-left: 10dvh;
+    padding-right: 10dvh;
+}
+
+
+/*Whoever invented phones fuck you!*/
+
+@media (max-width: 800px) {
+    .about_me_houser {
+        padding-left: 2dvh;
+        padding-right: 2dvh;
+    }
+    .main {
+        border-radius: 0;
+    }
+}
