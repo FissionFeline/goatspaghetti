@@ -124,23 +124,6 @@ body {
     font-family: 'TF2 Build';
 }
 
-.tos_houser {
-    display: center;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    margin: 1dvb;
-}
-
-.tos_item {
-    color: rgb(29, 27, 27);
-    width: 45dvb;
-    height: 25dvb;
-    margin: 1dvb;
-    background-color: #e6c5d7;
-}
-
 
 /*Whoever invented phones fuck you!*/
 
