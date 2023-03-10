@@ -92,7 +92,7 @@ body {
 .pricing_item {
     color: rgb(29, 27, 27);
     width: 45dvb;
-    height: 19dvb;
+    height: 25dvb;
     margin: 1dvb;
     background-color: #e6c5d7;
 }
@@ -111,6 +111,16 @@ body {
     height: 17dvb;
     margin: 1dvb;
     background-color: #e6c5d7;
+}
+
+.price_title {
+    font-size: 4dvb;
+    font-family: 'TF2 Build';
+}
+
+.price_value {
+    font-size: 5dvb;
+    font-family: 'TF2 Build';
 }
 
 
