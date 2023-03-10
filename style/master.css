@@ -73,6 +73,12 @@ body {
 .about_me_houser {
     padding-left: 10dvh;
     padding-right: 10dvh;
+    background-color: aqua;
+    border-radius: 1%;
+    border-color: white;
+    border-style: solid;
+    border-width: 1dvb;
+    margin-top: 2dvb;
 }
 
 
