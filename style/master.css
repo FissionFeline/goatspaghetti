@@ -146,6 +146,19 @@ body {
     background-color: #e6c5d7;
 }
 
+.gallery_text_houser {
+    padding-left: 10dvh;
+    padding-right: 10dvh;
+    background-color: #e6c5d7;
+    margin-top: 2dvb;
+    margin-bottom: 2dvb;
+}
+
+.gallery_images {
+    margin-top: 2dvb;
+    margin-bottom: 2dvb;
+}
+
 
 /*Whoever invented phones fuck you!*/
 
