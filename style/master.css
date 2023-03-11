@@ -81,6 +81,13 @@ body {
     border-width: 1dvb;
 }
 
+.border_seperator_black {
+    border-radius: 1%;
+    border-color: rgb(24, 23, 23);
+    border-style: solid;
+    border-width: 1dvb;
+}
+
 .pricing_wrapper {
     display: flex;
     flex-wrap: wrap;
