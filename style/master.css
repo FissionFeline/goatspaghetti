@@ -181,4 +181,11 @@ body {
     .tos_houser {
         text-align: left;
     }
+    .centered_img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 47dvh;
+        height: 47dvh;
+    }
 }
