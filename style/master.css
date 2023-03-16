@@ -188,4 +188,11 @@ body {
         width: 47dvh;
         height: 47dvh;
     }
+    .gallery_text_houser {
+        padding-left: 4dvh;
+        padding-right: 4dvh;
+        background-color: #e6c5d7;
+        margin-top: 2dvb;
+        margin-bottom: 2dvb;
+    }
 }
