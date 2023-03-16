@@ -98,6 +98,7 @@ body {
 }
 
 .pricing_item {
+    flex: 1 0 auto;
     color: rgb(29, 27, 27);
     width: 45dvb;
     height: 25dvb;
