@@ -195,4 +195,8 @@ body {
         margin-top: 2dvb;
         margin-bottom: 2dvb;
     }
+    .tos_houser {
+        padding-left: 5dvh;
+        padding-right: 5dvh;
+    }
 }
